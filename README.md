@@ -25,7 +25,7 @@ gatekeeper: null
 
 # ![](/assets/CrowdCommonsBMC.jpg)
 
-# ![](/assets/CrowdCommonsBMC.jpg)
+# 
 
 
 
